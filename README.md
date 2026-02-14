@@ -222,5 +222,3 @@ For more detailed analysis and visualizations, please refer to:
 - `Road_Accident_Report_Shreyansh.pdf` - Comprehensive report with visualizations and detailed findings
 
 ---
-
-*Last Updated: February 2024*
